@@ -1,0 +1,1 @@
+convert -background lightblue -fill blue -pointsize 36 -gravity center -size 320x100 label:"Hello, GitHub!" example_image.png
